@@ -1,6 +1,6 @@
 bb
 cc
-test RR fff ttttttttt
+test RR fff BUT ttttttttt
 test
 dd
 ee
